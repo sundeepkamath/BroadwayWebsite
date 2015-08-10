@@ -52,6 +52,18 @@ html, body {
   text-transform: uppercase;
 }
 
+.btn-main {
+  background-color: #333;
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 1.3px;
+  padding: 16px 40px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
 .footer {
   background-color: #333;
   color: #fff;
